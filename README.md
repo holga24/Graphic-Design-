@@ -4,7 +4,7 @@ Overview
 
 This repository contains my coursework, assignments, and design projects for SI 320 Graphic Design and Communications. The course focuses on visual storytelling, graphic communication, image curation, layout design, typography, and creative problem-solving through digital design projects.
 
-- Course Topics
+- Course Topics:
 Graphic design principles
 Visual storytelling
 Image curation
@@ -15,14 +15,14 @@ Branding and communication
 Digital design tools
 Resume
 
-- Tools & Software
+- Tools & Software:
 Adobe Photoshop
 Figma
 Canva
 Adobe Illustrator
 GitHub
 
-- Purpose
+- Purpose:
 
 This repository documents my learning process, creative projects, and development of graphic design and communication skills throughout the course.
 
